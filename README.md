@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sa-x-mi&label=Profile%20views&color=0e75b6&style=flat" alt="sa-x-mi" /> </p>
 
-- 🔭 I’m currently working on **Task Manager**
+- 🔭 I’m currently working on **Library System**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **MOBILE DEV**
 
 - 📫 How to reach me **hamrounsamiabdelmalek@gmail.com**
 

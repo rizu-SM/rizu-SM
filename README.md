@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamroun sami</h1>
-<h3 align="center">A passionate CTF player</h3>
+<h3 align="center">A passionate CTF player and backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sa-x-mi&label=Profile%20views&color=0e75b6&style=flat" alt="sa-x-mi" /> </p>
 
-- 🔭 I’m currently working on **Web Scraping**
 
-- 🌱 I’m currently learning **web exploiatation**
 
 - 📫 How to reach me **hamrounsamiabdelmalek@gmail.com**
 

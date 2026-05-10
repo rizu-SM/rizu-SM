@@ -65,7 +65,8 @@
 <p align="center">
   <img src="https://nmap.org/images/sitelogo.png" width="45"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>  
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
@@ -100,11 +101,11 @@ Implementation of cryptographic algorithms such as AES, DES, and RC4 to understa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizu-SM&show_icons=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizu-SM&theme=default" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizu-SM&layout=compact&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizu-SM&theme=default" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizu-SM&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=rizu-SM&hide_border=true" />
 </p>
 
 

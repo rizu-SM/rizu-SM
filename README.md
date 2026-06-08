@@ -96,7 +96,7 @@ Simulation of a file system in C demonstrating memory management, file organizat
 
 Implementation of cryptographic algorithms such as AES, DES, and RC4 to understand encryption mechanisms and low-level operations.
 **Tech:** Python
-🔒 Private Repository
+🔗 https://github.com/rizu-SM/cryptographie
 
 ## 📊 GitHub Stats
 

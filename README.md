@@ -112,7 +112,7 @@ Implementation of cryptographic algorithms such as AES, DES, and RC4 to understa
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sami-abdelmalek-hamroun-5ba1992ba">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sami-abdelmalek-hamroun-5ba1992ba](https://www.linkedin.com/in/sami-abdelmalek-hamroun-5ba1992ba/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
